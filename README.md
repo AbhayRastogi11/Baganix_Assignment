@@ -1,9 +1,9 @@
 # **🚀 AI-Powered Smart Chatbot (FastAPI + LLaMA)**
   
-![Chatbot Screenshot](screenshots/chatbot_ui.png)
+![Chatbot Screenshot](screenshots/Screenshot 2025-02-08 at 1.10.01ΓÇ»AM.png)
 
 ### **📌 Description**
-This project is an **AI-powered chatbot** built using **FastAPI and LLaMA 3** for generating **intelligent, context-aware responses**.  
+This project is an **AI-powered chatbot** built using **FastAPI and LLaMA 3.1** for generating **intelligent, context-aware responses**.  
 It features **a modern UI**, WebSocket-based real-time messaging, and MongoDB for conversation logging.
 
 ---
@@ -100,8 +100,8 @@ docker run -d -p 27017:27017 --name chatbot-mongo mongo
 - WebSockets for **real-time chat interaction**
 - API Documentation available at **`/docs`**
 
-### ✅ **2️⃣ AI-Powered Chatbot with LLaMA 3**
-- **Integrates LLaMA 3** for **dynamic AI responses**
+### ✅ **2️⃣ AI-Powered Chatbot with LLaMA 3.1**
+- **Integrates LLaMA 3.1** for **dynamic AI responses**
 - Handles **context-aware** conversations
 
 ### ✅ **3️⃣ Conversation Logging System**
@@ -128,21 +128,9 @@ docker run -d -p 27017:27017 --name chatbot-mongo mongo
 
 ---
 
-## **📸 Screenshots**
-### 🔹 **Chatbot UI**
-![Chatbot Screenshot](screenshots/chatbot_ui.png)
-
-### 🔹 **WebSocket Connection**
-![WebSocket Test](screenshots/websocket_test.png)
-
-### 🔹 **AI Response**
-![API Response](screenshots/api_response.png)
-
----
-
 ## **🎯 What This Project Covers**
 ✅ **FastAPI & WebSocket Integration**  
-✅ **AI Model Integration with LLaMA 3**  
+✅ **AI Model Integration with LLaMA 3.1**  
 ✅ **MongoDB Logging & Context Awareness**  
 ✅ **Advanced UI with Animations & Emojis**  
 
