@@ -1,6 +1,6 @@
 # **🚀 AI-Powered Smart Chatbot (FastAPI + LLaMA)**
   
-![Chatbot Screenshot](screenshots/Screenshot 2025-02-08 at 1.10.01ΓÇ»AM.png)
+![Chatbot Screenshot](screenshots/image_1.png)
 
 ### **📌 Description**
 This project is an **AI-powered chatbot** built using **FastAPI and LLaMA 3.1** for generating **intelligent, context-aware responses**.  
